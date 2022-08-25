@@ -94,6 +94,7 @@ packages:
       name: permission_handler
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "10.0.0"
   permission_handler_android:
     dependency: transitive
@@ -109,6 +110,9 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "9.0.4"
+=======
+    version: "8.3.0"
+>>>>>>> 5f21eb7a427a961883f2b3a7997fa04e491d4376
   permission_handler_platform_interface:
     dependency: transitive
     description:
@@ -116,6 +120,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.7.0"
+<<<<<<< HEAD
   permission_handler_windows:
     dependency: transitive
     description:
@@ -123,20 +128,26 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.0"
+=======
+>>>>>>> 5f21eb7a427a961883f2b3a7997fa04e491d4376
   plugin_platform_interface:
     dependency: transitive
     description:
       name: plugin_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "2.1.2"
+=======
+    version: "2.0.0"
+>>>>>>> 5f21eb7a427a961883f2b3a7997fa04e491d4376
   screenshot_callback:
     dependency: "direct dev"
     description:
       path: ".."
       relative: true
     source: path
-    version: "1.1.5"
+    version: "2.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -193,4 +204,8 @@ packages:
     version: "2.1.2"
 sdks:
   dart: ">=2.17.0-0 <3.0.0"
+<<<<<<< HEAD
   flutter: ">=2.8.0"
+=======
+  flutter: ">=2.5.0"
+>>>>>>> 5f21eb7a427a961883f2b3a7997fa04e491d4376
